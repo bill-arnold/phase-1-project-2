@@ -44,4 +44,3 @@ taskList.addEventListener("click", e => {
     target.parentElement.classList.toggle("completed");
   }
 });
-("p").hide();
